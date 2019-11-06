@@ -1,0 +1,1 @@
+{"status":"success","data":{"resultType":"vector","result":[{"metric":{"__name__":"golang_latency_ovs_0","app":"node-exporter","instance":"10.39.0.2:8080","job":"kubernetes-service-endpoints","kubernetes_name":"node-exporter","kubernetes_namespace":"default","name":"node-exporter"},"value":[1573020594.496,"64140.3"]}]}}
